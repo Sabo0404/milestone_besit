@@ -1,0 +1,7 @@
+C:\Users\Sabo\source\repos\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.csprojAssemblyReference.cache
+C:\Users\Sabo\source\repos\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.AssemblyInfoInputs.cache
+C:\Users\Sabo\source\repos\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.AssemblyInfo.cs
+C:\Users\Sabo\source\repos\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.RazorAssemblyInfo.cache
+C:\Users\Sabo\source\repos\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.RazorAssemblyInfo.cs
+C:\Users\Sabo\source\repos\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.TagHelpers.input.cache
+C:\Users\Sabo\source\repos\MidTerm\MidTerm\obj\Debug\netcoreapp3.1\MidTerm.TagHelpers.output.cache
